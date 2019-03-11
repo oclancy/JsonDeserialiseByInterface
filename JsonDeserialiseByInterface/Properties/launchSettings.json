@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JsonDeserialiseByInterface": {
+      "commandName": "Project",
+      "commandLineArgs": "source1.json"
+    }
+  }
+}
